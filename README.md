@@ -5,5 +5,8 @@ Ivo's Videos on YouTube
 
 | Title                                                        | Released  | # |
 | ------------------------------------------------------------ | ---------- | - | 
-| [Introduction to Apache Lucene & Elasticsearch](https://www.youtube.com/watch?v=BvgGgkN3clI&t=1160s) | 31/01/2021 | 2 |
+| [How Video Streaming Works: Content Distribution Network [Part 3]](https://www.youtube.com/watch?v=7RW3ddZRlEM) | 20/03/2021 | 5 |
+| [How Video Streaming Works: HTTP Live Streaming [Part 2]](https://www.youtube.com/watch?v=Ea0JQh54amc) | 19/03/2021 | 4 |
+| [How Video Streaming Works: Terminology [Part 1]](https://www.youtube.com/watch?v=g9qTZqGiPH0) | 19/03/2021 | 3 |
+| [Introduction to Apache Lucene & Elasticsearch](https://www.youtube.com/watch?v=BvgGgkN3clI) | 31/01/2021 | 2 |
 | [Introduction to Redis: What, Why, How](https://www.youtube.com/watch?v=O35aMP1xvtY) | 23/01/2021 | 1 |
