@@ -5,6 +5,7 @@ Ivo's Videos on YouTube
 
 | Title                                                        | Released  | # |
 | ------------------------------------------------------------ | ---------- | - | 
+| [Compiled vs interpreted programming languages](https://www.youtube.com/watch?v=ZlQYsE-B6vo) | 05/07/2021 | 6 |
 | [How Video Streaming Works: Content Distribution Network [Part 3]](https://www.youtube.com/watch?v=7RW3ddZRlEM) | 20/03/2021 | 5 |
 | [How Video Streaming Works: HTTP Live Streaming [Part 2]](https://www.youtube.com/watch?v=Ea0JQh54amc) | 19/03/2021 | 4 |
 | [How Video Streaming Works: Terminology [Part 1]](https://www.youtube.com/watch?v=g9qTZqGiPH0) | 19/03/2021 | 3 |
