@@ -5,6 +5,7 @@ Ivo's Videos on YouTube
 
 | Title                                                        | Released  | # |
 | ------------------------------------------------------------ | ---------- | - | 
+| [Introduction to Apache Kafka](https://www.youtube.com/watch?v=e9D7_SQwdvc) | 23/10/2021 | 7 |
 | [Compiled vs interpreted programming languages](https://www.youtube.com/watch?v=ZlQYsE-B6vo) | 05/07/2021 | 6 |
 | [How Video Streaming Works: Content Distribution Network [Part 3]](https://www.youtube.com/watch?v=7RW3ddZRlEM) | 20/03/2021 | 5 |
 | [How Video Streaming Works: HTTP Live Streaming [Part 2]](https://www.youtube.com/watch?v=Ea0JQh54amc) | 19/03/2021 | 4 |
